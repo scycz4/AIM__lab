@@ -14,25 +14,7 @@
     </content>
     <orderEntry type="jdk" jdkName="JavaSE-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="aim-2021.jar">
-        <CLASSES>
-          <root url="file://E:/Desktop/COMP2001 AIM/aim-2021.jar" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/aim-2021.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/aim-2021 (2).jar!/" />
