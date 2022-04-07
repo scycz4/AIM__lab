@@ -79,7 +79,7 @@ public class RLILS_AM_HH extends HyperHeuristic {
 			HeuristicPair h=rws.performRouletteWheelSelection();
 			oProblem.applyHeuristic(h.getFirst(),0,1);
 			oProblem.applyHeuristic(h.getLast(),0,1);
-			if(fitness>oProblem.getFunctionValue(0)){
+			if(fitness>oProblem.getFunctionValue(1)){
 				rws.decrementScore(h);
 			}
 			else{
